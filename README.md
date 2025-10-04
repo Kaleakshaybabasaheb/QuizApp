@@ -8,7 +8,7 @@
 2. [Features](#features)  
 3. [Tech Stack](#tech-stack)  
 4. [Architecture & Folder Structure](#architecture--folder-structure)  
-6. [Usage](#usage)  
+5. [Usage](#usage)  
 ---
 
 ## Overview
@@ -67,12 +67,11 @@ Quiz-App/
 | ├── App.js
 | └── index.js
 
-Usage:
+## Usage
 
-Visit the Home page and choose a quiz topic (if multiple)
+Visit the Home page and choose a quiz topic 
 Start the quiz — questions will appear one by one
 Select an answer from multiple choices
 See feedback (correct / incorrect)
 After finishing all questions, view your score and correct answers
 Optionally retake quizzes or move to another quiz
-Include screenshots or GIFs if possible to demonstrate UI.
