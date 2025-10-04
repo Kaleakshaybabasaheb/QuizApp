@@ -17,9 +17,8 @@
 
 - Multiple choice questions  
 - Score tracking  
-- Feedback on answers (correct / incorrect)  
-- Possibly user authentication (if implemented)  
-- Admin or quiz management (if applicable)  
+- Feedback on answers  
+- Possibly user authentication   
 
 The goal is to make learning fun, measure performance, and allow quiz creators to add quizzes easily.
 
