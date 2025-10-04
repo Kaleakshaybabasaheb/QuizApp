@@ -69,9 +69,9 @@ Quiz-App/
 
 ## Usage
 
-Visit the Home page and choose a quiz topic 
-Start the quiz — questions will appear one by one
-Select an answer from multiple choices
-See feedback (correct / incorrect)
-After finishing all questions, view your score and correct answers
-Optionally retake quizzes or move to another quiz
+- Visit the Home page and choose a quiz topic 
+- Start the quiz — questions will appear one by one
+- Select an answer from multiple choices
+- See feedback (correct / incorrect)
+- After finishing all questions, view your score and correct answers
+- Optionally retake quizzes or move to another quiz
